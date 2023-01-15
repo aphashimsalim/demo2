@@ -1,6 +1,6 @@
 import numpy as np
 
-a=51
+a=512
 b=8
 
 sum=a+b
